@@ -44,3 +44,28 @@
     padding-top: 70px;
 }
 
+.fixedicon svg{
+    background-color: #5329FF;
+}
+
+.fixedicon input{
+  width: 400px;
+}
+
+.dc-heading-color{
+    color:#100937;
+}
+
+.sidebarBottom{
+    margin-top: 80px;
+}
+
+.dc-add-btn{
+    
+    background-color: #5329FF;
+}
+
+.tableCustom tr{
+    
+    margin-bottom: 10px;
+}
